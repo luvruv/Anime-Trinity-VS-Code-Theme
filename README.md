@@ -134,7 +134,7 @@ Ctrl+Shift+P → Preferences: Color Theme
 
 ## 👨‍💻 Author
 
-**Dhruv Jain** — Developer & UI/UX Designer
+**Dhruva Jhanjhari** — Developer & UI/UX Designer
 [GitHub](https://github.com/your-username)
 
 ---
