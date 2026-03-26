@@ -8,6 +8,10 @@
   "engines": {
     "vscode": "^1.70.0"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/luvruv/anime-trinity-theme.git"
+  },
   "categories": ["Themes"],
   "keywords": [
     "theme", "anime", "dark theme",
