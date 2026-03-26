@@ -1,0 +1,39 @@
+{
+  "name": "anime-trinity-theme",
+  "icon": "icon.png",
+  "displayName": "Anime Trinity Theme",
+  "description": "Three anime-inspired VS Code themes: One Piece Dark, Robin Cozy, and Purple Blue.",
+  "version": "1.0.0",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "theme", "anime", "dark theme",
+    "one piece", "cyberpunk", "cozy"
+  ],
+  "galleryBanner": {
+    "color": "#0f172a",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Piece Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onepiece.json"
+      },
+      {
+        "label": "Robin Cozy",
+        "uiTheme": "vs",
+        "path": "./themes/robin.json"
+      },
+      {
+        "label": "Purple Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purpleblue.json"
+      }
+    ]
+  }
+}
